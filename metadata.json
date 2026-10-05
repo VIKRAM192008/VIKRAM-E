@@ -1,0 +1,6 @@
+{
+  "name": "Solstice Press — Artisanal Cold-Pressed Juicery",
+  "description": "Direct-to-consumer cold-pressed organic juice shop, bespoke hydraulic blend studio, and circadian reset flights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
